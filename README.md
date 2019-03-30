@@ -1,5 +1,5 @@
 # Natural_Language_Processing
-1. Twitter data and sentimental analysis
+## 1. Twitter data and sentimental analysis
 
 To run the code, first, need to add your twitter API TOKEN in 'twitter_credentials.py'.
 
